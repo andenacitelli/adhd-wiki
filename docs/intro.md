@@ -20,6 +20,7 @@ ADHD is often genetic and I saw a lot of symptom commonality, so I got tested as
 
 - Symptoms
   - [Anxiety](./symptoms/anxiety)
+  - [Constant Music](./symptoms/constant-music)
   - [Executive Dysfunction](./symptoms/executive-dysfunction)
   - [Fidgeting](./symptoms/fidgeting)
   - [Lack of Emotions](./symptoms/lack-of-emotions)
