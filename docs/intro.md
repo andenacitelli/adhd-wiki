@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Overview
 
-Hey! I'm Anden, a 23-year-old Software Engineer with predominantly inattentive ADHD. I built this site out to try and help others with the condition.
+Hey! I'm a Software Engineer with predominantly inattentive ADHD. I built this site out to try and help others with the condition.
 
 ## Why make this?
 
@@ -39,12 +39,3 @@ ADHD is often genetic and I saw a lot of symptom commonality, so I got tested as
   - [Removing Distractions](./coping/removing-distractions)
   - [Systems](./coping/systems)
   - [Therapy](./coping/therapy)
-  
-## Contact
-
-If you want to get in touch, here's some places you find me:
-
-- Email: `a.acitelli@gmail.com`
-- LinkedIn: https://www.linkedin.com/in/anden-acitelli
-
-I like talking about my experience and helping others. Feel free to get in touch if you want to talk!

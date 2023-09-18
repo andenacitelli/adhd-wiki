@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Anden\'s ADHD Wiki',
+  title: 'My ADHD Wiki',
   tagline: "Covering my ADHD experience in hopes of helping others.",
   favicon: 'img/brain.svg',
 
@@ -60,9 +60,9 @@ const config = {
         respectPrefersColorScheme: false,
       },
       navbar: {
-        title: 'Anden\'s ADHD Wiki',
+        title: 'My ADHD Wiki',
         logo: {
-          alt: 'Anden\'s ADHD Wiki Logo',
+          alt: 'My ADHD Wiki Logo',
           src: 'img/brain.svg',
         },
         items: [
@@ -78,7 +78,7 @@ const config = {
         style: 'dark',
         links: [
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Anden Acitelli. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()}. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
