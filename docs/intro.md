@@ -29,7 +29,7 @@ ADHD is often genetic and I saw a lot of symptom commonality, so I got tested as
   - [Automate Everything](./coping/automate-everything)
   - [Caffeine](./coping/caffeine)
   - [Determining Importance](./coping/determining-importance)
-  - [External-Accountability](./coping/external-accountability)
+  - [External Accountability](./coping/external-accountability)
   - [Fidget Toys](./coping/fidget-toys)
   - [Medication](./coping/medication)
   - [Minimize Work](./coping/minimize-work)
