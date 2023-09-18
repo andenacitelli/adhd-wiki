@@ -10,32 +10,29 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Use',
+    title: 'Unfiltered & Real',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Just the experience of someone going through it that wants to help others :)
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Symptoms AND Coping Mechanisms',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        I share both how it affects me as well as a laundry list of ways I've found to cope, in hopes that you'll find something that works for you.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Exhaustive',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        I've tried my best to make this reasonably exhaustive while still being relatively concise. I hope you find it helpful!
       </>
     ),
   },
