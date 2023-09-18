@@ -6,6 +6,7 @@ import Layout from '@theme/Layout';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
 
 import styles from './index.module.css';
+import { Analytics } from "@vercel/analytics/react";
 
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
@@ -34,6 +35,7 @@ export default function Home(): JSX.Element {
       description="Description will go into a meta tag in <head />">
       <HomepageHeader />
       <main>
+        <Analytics />
         <HomepageFeatures />
       </main>
     </Layout>
